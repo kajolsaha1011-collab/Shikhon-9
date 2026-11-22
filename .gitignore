@@ -1,0 +1,8 @@
+node_modules/
+android/
+*.log
+*.jks
+*.keystore.bak
+.DS_Store
+www/assets/pdfjs/
+www/assets/libs/
